@@ -1,5 +1,5 @@
 # 🎭 GenFace - A Face-Generating GAN
-![About Image](assets/pngwing.com-23.png)
+![About Image](assets/download.png)
 
 **GenFace** is a cutting-edge **Generative Adversarial Network (GAN)** designed to generate realistic human faces. The model consists of a **Generator** that creates synthetic faces and a **Discriminator** that differentiates between real and generated images. 🤖✨
 
